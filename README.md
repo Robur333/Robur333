@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi I'm Robert 👋
+
+👨🏻‍💻 About Me
+
+:bicyclist:  Gym and bike trips fun 
+
+:surfer: Love to travel
+
+📚 Learning HTML, CSS, JavaScript and want to work as front-end developer i near future
+ 
 
 <!--
 **Robur333/Robur333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
