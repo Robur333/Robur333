@@ -6,7 +6,7 @@
 
 :surfer: Love to travel
 
-📚 Learning HTML, CSS, JavaScript and want to work as front-end developer i near future
+📚 Learning HTML, CSS, JavaScript and want to work as front-end developer in near future
  
 
 <!--
