@@ -7,14 +7,14 @@
 :surfer: Love to travel
 
 📚My stack is : 
--JS ejs6
--CSS 
--HTML
--Basics SQL
--Basics python specifically selenium 
--Basics of Linux 
--Basics of C# and Java 
--Beginner in React 
+:-JS ejs6
+:-CSS 
+:-HTML
+:-Basics SQL
+:-Basics python specifically selenium 
+:-Basics of Linux 
+:-Basics of C# and Java 
+:-Beginner in React 
 
 
 <!--
