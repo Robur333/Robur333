@@ -6,8 +6,16 @@
 
 :surfer: Love to travel
 
-📚 Learning HTML, CSS, JavaScript and want to work as front-end developer in near future
- 
+📚My stack is : 
+-JS ejs6
+-CSS 
+-HTML
+-Basics SQL
+-Basics python specifically selenium 
+-Basics of Linux 
+-Basics of C# and Java 
+-Beginner in React 
+
 
 <!--
 **Robur333/Robur333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
