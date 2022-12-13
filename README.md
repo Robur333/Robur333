@@ -14,7 +14,8 @@
  -Basics python specifically selenium   
  -Basics of Linux  
  -Basics of C# and Java   
- -Beginner in React   
+ -Beginner in React  
+ -Unit testing with jest and RTL 
 
 
 <!--
