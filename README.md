@@ -16,6 +16,10 @@
  -Basics of C# and Java   
  -Beginner in React  
  -Unit testing with jest and RTL 
+ 
+ Software Engineer Intern at Nike  
+
+
 
 
 <!--
