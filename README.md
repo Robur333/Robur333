@@ -14,7 +14,7 @@
  -Basics python specifically selenium   
  -Basics of Linux  
  -Basics of C# and Java   
- -Beginner in React  
+ -React  
  -Unit testing with jest and RTL 
  
  Software Engineer Intern at Nike  
