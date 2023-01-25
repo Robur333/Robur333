@@ -15,9 +15,9 @@
  -Basics of Linux  
  -Basics of C# and Java   
  -React  
- -Unit testing with jest and RTL 
- -Styled Components 
- Software Engineer Intern at Nike  
+ -Unit testing with jest and RTL  
+ -Styled Components   
+   Software Engineer Intern at Nike  
 
 
 
