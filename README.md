@@ -12,7 +12,6 @@
  -HTML  
  -Basics SQL  
  -Basics python specifically selenium   
- -Basics of Linux  
  -Basics of C# and Java   
  -React  
  -Unit testing with jest and RTL  
