@@ -16,7 +16,7 @@
  -React  
  -Unit testing with jest and RTL  
  -Styled Components    
- -e2e testing with test cafe
+ -e2e testing with testCafe  
    Software Engineer Intern at Nike  
 
 
