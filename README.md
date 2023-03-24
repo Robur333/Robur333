@@ -15,7 +15,8 @@
  -Basics of C# and Java   
  -React  
  -Unit testing with jest and RTL  
- -Styled Components   
+ -Styled Components    
+ -e2e testing with test cafe
    Software Engineer Intern at Nike  
 
 
