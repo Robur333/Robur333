@@ -6,20 +6,6 @@
 
 :surfer: Love to travel
 
-📚My stack is :   
- -JS ejs6    
- -CSS   
- -HTML  
- -Basics SQL  
- -Basics python specifically selenium   
- -Basics of C# and Java   
- -React  
- -Unit testing with jest and RTL  
- -Styled Components    
- -e2e testing with testCafe  
-   Software Engineer Intern at Nike  
-
-
 
 
 <!--
